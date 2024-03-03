@@ -6,7 +6,7 @@ Features
 Balance Overview: Provides a summary of the current balance.
 Income and Expense Tracking: Allows users to categorize transactions as income or expense.
 Transaction History: Displays a list of past transactions with details.
-Add New Transaction: Enables users to add new transactions easily.
+Add New Transaction: This enables users to add new transactions easily.
 Technologies Used
 React.js: Utilized for building the user interface and managing state efficiently.
 Context API: Employed for managing global state across components.
@@ -33,9 +33,3 @@ Create a new branch for your feature (git checkout -b feature-name).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-name).
 Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-This project was inspired by XYZ tutorial.
-Special thanks to ABC contributor for valuable contributions
